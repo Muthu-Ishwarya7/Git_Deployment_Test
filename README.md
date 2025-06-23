@@ -30,4 +30,19 @@ Inside the open folder in **VS Code**:
 2. You’ll see `index.html` listed under **Changes**
 3. Hover over the file → Click the ➕ icon to stage it
 4. Type a commit message like:
+### 3. Enable GitHub Pages
 
+1. Go to your repository → **Settings**
+2. In the left sidebar, click **Pages** (under "Code and Automation")
+3. Under **Source**, choose:
+   - **Branch**: main
+   - **Folder**: / (root)
+4. Click **Save**
+
+GitHub will generate a live deployment link within a few seconds.
+
+---
+
+### 4. Access Your Site
+
+Your site will be available at:  https://muthu-ishwarya7.github.io/Git_Deployment_Test/
